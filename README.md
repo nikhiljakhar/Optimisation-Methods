@@ -8,3 +8,9 @@ that contains the points in S1 in its interior, and does not contain any of the 
 3. Largest Ball - to find the largest ball that can fit in polyhedron
 4. Illumination Problem - determine lamp powers that make the illumination levels close to a given desired illumination level Ides, subject to the power limits 0 ≤ pi ≤ 1.
 5. Jigsaw Puzzle - a solver that solves jigsaw puzzles using linear programming
+
+## Assignment 2 contains:
+1. Implementation of Spectral Clustering
+2. Manifold Visualization - Implement the various manifold learning methods and visualize the datasets
+3. Clustering and Visualizing high-dimensional data -  k-means and spectral clustering on the Swiss roll dataset
+4. Classification
